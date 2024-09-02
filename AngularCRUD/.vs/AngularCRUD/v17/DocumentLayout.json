@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prane\\source\\repos\\AngularCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCC7DB5-B2D7-49E7-9EB7-B5E5DBCA3FFF}|AngularCRUD\\AngularCRUD.csproj|c:\\users\\prane\\source\\repos\\angularcrud\\angularcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FCC7DB5-B2D7-49E7-9EB7-B5E5DBCA3FFF}|AngularCRUD\\AngularCRUD.csproj|solutionrelative:angularcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCC7DB5-B2D7-49E7-9EB7-B5E5DBCA3FFF}|AngularCRUD\\AngularCRUD.csproj|c:\\users\\prane\\source\\repos\\angularcrud\\angularcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCC7DB5-B2D7-49E7-9EB7-B5E5DBCA3FFF}|AngularCRUD\\AngularCRUD.csproj|solutionrelative:angularcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\prane\\source\\repos\\AngularCRUD\\AngularCRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "AngularCRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\prane\\source\\repos\\AngularCRUD\\AngularCRUD\\appsettings.json",
+              "RelativeToolTip": "AngularCRUD\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T18:05:50.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prane\\source\\repos\\AngularCRUD\\AngularCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "AngularCRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\prane\\source\\repos\\AngularCRUD\\AngularCRUD\\Program.cs",
+              "RelativeToolTip": "AngularCRUD\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:53:53.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
